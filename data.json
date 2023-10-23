@@ -1,22 +1,42 @@
 [
-    { 
-      "id": 1,
-      "name": "Ivan",
-      "scorepoint": 4500
-    },
-    {
-      "id": 2,
-      "name": "Petr",
-      "scorepoint": 3600
-    },
-    {
-      "id": 3,
-      "name": "Vadim",
-      "scorepoint": 3433
-    },
-    {
-      "id": 4,
-      "name": "Olga",
-      "scorepoint": 2356
-    }
+  {
+    "id": 1,
+    "name": "Ivan",
+    "scorepoint": 4500
+  },
+  {
+    "id": 2,
+    "name": "Petr",
+    "scorepoint": 3600
+  },
+  {
+    "id": 3,
+    "name": "Vadim",
+    "scorepoint": 7433
+  },
+  {
+    "id": 4,
+    "name": "Olga",
+    "scorepoint": 2356
+  },
+  {
+    "id": 5,
+    "name": "Elena",
+    "scorepoint": 2800
+  },
+  {
+    "id": 6,
+    "name": "Andrey",
+    "scorepoint": 4100
+  },
+  {
+    "id": 7,
+    "name": "Maria",
+    "scorepoint": 3200
+  },
+  {
+    "id": 8,
+    "name": "Sergey",
+    "scorepoint": 3900
+  }
 ]
